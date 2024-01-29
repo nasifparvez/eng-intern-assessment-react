@@ -1,0 +1,36 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.timeDisplay {
+  font-size: 50px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.lapsTable {
+  padding-top: 15px;
+}
+
+td {
+  padding-right: 20px;
+  text-align: center;
+}
+
+th {
+  text-align: center;
+}
+
+.lapTimeData {
+  padding-left: 15px;
+}
+
+.overallTimeData {
+  padding-left: 15px;
+}
